@@ -12,7 +12,7 @@ export default function Hero(){
             <div className="container mx-auto px-6">
                 <div className="absolute flex items-center justify-around z-10 pt-28">
                     <div className="w-full md:w-[52%]">
-                        <h1 className="text-white text-3xl font-bold pb-4">HI, IM <span className="text-yellow-500">AKRAM</span></h1>
+                        <h1 className="text-white text-3xl font-bold pb-4">HI, IAM <span className="text-yellow-500">AKRAM</span></h1>
                         <TextEffect />
                         <p className="text-gray-400 py-5 text-lg">Hi! My name is Hamlaoui Akram, I am Passionate MERN Stack Developer dedicated to building dynamic and responsive web applications, leveraging MongoDB, Express.js, React, and Node.js to deliver seamless user experiences.
                         </p>

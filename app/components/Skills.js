@@ -18,7 +18,7 @@ export default function Skills(){
                             <Image className="h-[70px] hover:scale-125 duration-200" src="/images/jslogo.png" alt="" width={80} height={100}/>
                         </div>
                         <div className="px-[12.5px] py-[20px]">
-                            <Image className="h-[60px] w-[75px] hover:scale-125 duration-200" src="/images/tailwindlogo.png" alt="" width={80} height={100}/>
+                            <Image className="h-[60px] w-[75px] hover:scale-125 duration-200" src="/images/tailwindLogo.png" alt="" width={80} height={100}/>
                         </div>
                         <div className="px-[12.5px] py-[15px]">
                             <Image className="w-[75px] h-[70px] hover:scale-125 duration-200" src="/images/reactlogo.png" alt="" width={100} height={100}/>
